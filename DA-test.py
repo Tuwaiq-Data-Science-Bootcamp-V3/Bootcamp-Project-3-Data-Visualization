@@ -1,5 +1,5 @@
 import pandas as pd
-
+import seaborn as sns 
 
 
 
@@ -32,4 +32,14 @@ df2[['rooms', 'lounges', 'streetWidth', 'stairs',
               'propertyAge', 'driverRoom', 'tent', 'patio', 'kitchen', 'outdoorRoom',
               'garage', 'duplex', 'space', 'apartments', 'maidRoom', 'elevator',
               'furnihsed', 'pool', 'basement']].apply(pd.to_numeric)
+#############################
+df2.info()
+df2.describe()
+df2.head()
+df2.tail()
+#############################
+
+sns.scatterplot(data=df2, x="price", y="space", hue="price", size="price",sizes=(20, 100))
+#############################
+
 
