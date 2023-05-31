@@ -7,16 +7,31 @@
 
 - Use the following dataset.
     - https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar
+
+3 Hisham 
+3 Albandri
+3 Faris
+
+
 - EDA
-    - Apply the essential EDA steps: head, shape, info, describe, and missing values.
-    - Apply the additional EDA steps based on your dataset needs.
+    - Apply the essential EDA steps: head, shape, info, describe, and missing values. (Faris)  
+    - Apply the additional EDA steps based on your dataset needs. (All) 
+
+
+
 - Data Visualization
-    - Drive meaningful insights (at least 10 different charts).
-    - Apply chart format include:
-    - Choose a specific style for your charts.
-        - Apply one color palette from your choice on all charts.
-        - Use the title, x-y labels, font size, figure size, and legends.
-- Create an interactive dashboard using Plotly.
+    - Drive meaningful insights (at least 10 different charts). 3(Albandri)  3(Faris) 3(Hisham)
+    - Apply chart format including:
+    - Choose a specific style for your charts.**
+        - Apply one color palette from your choice on all charts.**
+        - Use the title, x-y labels, font size, figure size, and legends.**
+- Create an interactive dashboard using Plotly. (Hisham)
+
+
+
+
+
+
 - Report your final conclusion and findings in one page (readme markdown file).
     - Team members.
     - Introduction (problem, objectives)
