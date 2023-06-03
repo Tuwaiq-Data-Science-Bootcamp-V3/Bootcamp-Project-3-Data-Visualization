@@ -174,3 +174,14 @@ The front type of a villa can also impact its price, The front type can also aff
 The street width of a villa can also impact its price. Generally, villas located on wider streets are more expensive than those on narrower streets. This is because wider streets provide more space and a greater sense of openness, which can be more desirable to potential buyers.
 
 ![Image 6](images/streetWidth.png)
+
+## Conclusion
+In conclusion, our analysis of the Riyadh villas dataset has provided valuable insights into the real estate market in Riyadh, Saudi Arabia. We explored various features such as location, villa size, number of rooms, and price to understand the dynamics of the market and help buyers and sellers make informed decisions.
+
+We found that the distribution of villas across different locations in Riyadh varies, with some areas having higher villa counts and higher average prices, while others offer more affordable options. By examining the distribution of villa features across locations, we identified trends in pricing based on the features of the villas.
+
+Furthermore, we analyzed villa neighborhoods in each location, discovering variations in villa counts and average prices. This information can assist buyers in narrowing down their search and finding neighborhoods that align with their preferences and budget.
+
+Additionally, we explored specific neighborhoods in detail, such as Al Nakheel and Al Maseef. Through correlation analysis, we identified features that strongly affect villa prices in these neighborhoods, including the presence of basements, patios, property age, front type, and street width. Understanding these relationships can help buyers and sellers gauge the value of a villa based on its features.
+
+Overall, our analysis provides valuable insights into the Riyadh real estate market, empowering buyers and sellers with knowledge to make informed decisions. It is important to note that real estate markets are dynamic and subject to change, so continuous monitoring and analysis are necessary for up-to-date information.
