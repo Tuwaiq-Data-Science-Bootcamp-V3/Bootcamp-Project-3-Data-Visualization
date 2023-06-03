@@ -19,7 +19,7 @@ The objective of our project is making data more accessible and understandable, 
 
 
 
-## Exploratory Data Analysis (EDA)
+
 
 
 
