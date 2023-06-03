@@ -128,19 +128,20 @@ In the beginning, to analyze Al Nakheel Neighbourhood we plot the matrix heatmap
 
 |                      |                        |
 | ----------------------------- | ----------------------------- |
-| ![Image 1](images/N1.png) | ![Image 2](images/N2.png) |
+| ![Image 1](images/N1.PNG) | ![Image 2](images/N2.PNG) |
 
 As shown above, the following features correlate most with the price: Elevator, Pool, Basement, Number of rooms, Front, and property age .for further analysis, we took each feature and plotted its relationship with the price.
 
-<img src ="images/N3.png">
+<img src ="images/N3.PNG">
 
 The plot above shows that the correlation between the basement and the price is positive, which means that having a basement in the villa contributes to an increase in the price.
+
 The same previous finding applies to the remaining features as in the following plots:
-<img src="images/N4.png">
-<img src="images/N5.png">
-<img src="images/N6.png">
-<img src="images/N7.png">
+<img src="images/N4.PNG"><br>
+<img src="images/N5.PNG"><br>
+<img src="images/N6.PNG"><br>
+<img src="images/N7.PNG"><br>
 
 for the property age, the correlation in the heatmap plot showed the correlation is negative but the below blot shows the property age between 4-8 years affects the price in a positive way:
 
-<img src="images/N8.png">
+<img src="images/N9.PNG">
