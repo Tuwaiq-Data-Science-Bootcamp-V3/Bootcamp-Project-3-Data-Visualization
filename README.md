@@ -2,7 +2,7 @@
 ## Team members:
 - Amjad Alsuwaiket
 - Omar Alnasser 
-- Salaman Almalki
+- Salman Almalki
 
 # Introduction
 In the dataset, which includes neighborhoods of Riyadh various classifications. Our goal in this project is to explore the most important analysis in different categories , It is beneficial to everyone interested in this field to view and understand data
