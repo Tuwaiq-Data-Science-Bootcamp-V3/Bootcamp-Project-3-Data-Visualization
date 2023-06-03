@@ -1,45 +1,47 @@
-# Bootcamp-Project-3-Data-Visualization
+# Team Members
+- albandari alshudukhi
+- Hisham Altayieb
+- Faris Alotaibi
 
 
-**Based on what you’ve learned until now, use NumPy, pandas, matplotlib, seaborn, and Plotly to create a project of your choosing.**
+# Introduction
+The objective of this project is to perform an exploratory data analysis on a dataset about Riyadh Villas Aqar using Python packages such as use NumPy, pandas, matplotlib, seaborn, ,Plotly and Create an interactive dashboard **.
 
-**This project must at least satisfy the following minimum requirements:**
+# Dataset Overview and Source.
+The dataset we used https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar
 
-- Use the following dataset.
-    - https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar
+# This analysis process will contain the following questions:
+1. Is there a relationship between the increase in house prices and space?
+<img src="Price vs Space Relationship.png"  width="400" height="400">
+2. What is the average large houses sizes in Riyadh by neighbourhood?
+<img src="Distribution.png"  width="400" height="400">
+3. What are the average prices in based on locations in Riyadh?
+<img src="The Average Prices of the Neighborhoods.png"  width="400" height="400">
+4. What is the average price for duplexes in each neighborhood?
+<img src="Duplex Averge Price.png"  width="400" height="400">
 
-3 Hisham 
-3 Albandri
-3 Faris
+5. Waht is the Average space of duplexes by neighborhood?
 
-
-- EDA
-    - Apply the essential EDA steps: head, shape, info, describe, and missing values. (Faris)  
-    - Apply the additional EDA steps based on your dataset needs. (All) 
-
-
-
-- Data Visualization
-    - Drive meaningful insights (at least 10 different charts). 3(Albandri)  3(Faris) 3(Hisham)
-    - Apply chart format including:
-    - Choose a specific style for your charts.**
-        - Apply one color palette from your choice on all charts.**
-        - Use the title, x-y labels, font size, figure size, and legends.**
-- Create an interactive dashboard using Plotly. (Hisham)
+<img src="Duplex Averge Space.png"  width="400" height="400">
 
 
+6. What is the Total Number of Apartments by Location?
+
+<img src="Apartments Count by Location.png"  width="400" height="400">
+
+
+7. Does the property age affect the price?
+
+<img src="Average Price by Property Age.png"  width="400" height="400">
+
+<img src="Average Price by Property Age.jpg"  width="400" height="400">
+
+
+8. What is the average space by property age ?
+
+<img src="Average Space by Property Age.png"  width="400" height="400">
 
 
 
-
-- Report your final conclusion and findings in one page (readme markdown file).
-    - Team members.
-    - Introduction (problem, objectives)
-    - Dataset Overview and Source.
-    - Describe the final ten insights.
-    
-- The Final presentation will be on Sunday.
-- Due Date: Sat, 3 Jun, 11:00 pm.
-### Final Deliverables:
-- Notebook file(.ipynb).
-- README.md file.
+Conclusions
+We found a lot of observations, and based on the small size of the database, we could not identify many observations or dive deeper into the analyzes, but in general we noticed an increase in prices, a variety of types of real estate, and a decrease in the spaces offered, with the increase in the division of Riyadh into old areas and luxurious areas where the prices increase
