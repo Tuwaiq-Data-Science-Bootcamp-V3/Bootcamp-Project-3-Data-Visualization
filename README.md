@@ -145,3 +145,32 @@ The same previous finding applies to the remaining features as in the following 
 for the property age, the correlation in the heatmap plot showed the correlation is negative but the below blot shows the property age between 4-8 years affects the price in a positive way:
 
 <img src="images/N9.PNG">
+
+## Exploring Al Maseef Neighbourhood 
+After exploring the highest number of villas in AlNakheel neighborhood, now scrolling to the lowest number of villas in AlMaseef neighborhood, we start our exploration by showing the correlation heatmap between features themselves, then focusing in the correlation between Prices and each features, and figure them in some different plots to show the relations independently. 
+
+### Heatmap correlations for AlMaseef neighborhood: 
+![Image 1](images/corr3.png)
+
+### Different features affected on Price: 
+The price of a villa is affected by various features such as Street Width, Patios, number of rooms, Basement, and age of the property. By analyzing these features, we can gain insights into the factors that influence the price of a villa and help buyers and sellers make informed decisions about their purchase or sale.
+#### Relation between basement presence and price:
+The presence of a basement in a villa can also affect its price. Villas with basements are generally more expensive than those without, as they provide additional living space and storage.
+![Image 2](images/basement2.png)
+
+#### Relation between patio presence and price:
+The presence of a patio in a villa can also affect its price. A patio is an outdoor living space that can be used for entertaining, dining, or relaxing, and it can add significant value to a property.
+![Image 3](images/patio.png)
+
+#### Relation between Property Age of Villa and price:
+The age of a villa is an important factor that can influence its price. Generally, newer villas are more expensive than older ones, but in AlMaseef available dataset shows the correlation between Property age of villa and price is negatively, which villa has 20-30 property age has highest price than newest villas. 
+![Image 4](images/propertyAge2.png)
+
+#### Relation between Front Type and price:
+The front type of a villa can also impact its price, The front type can also affect the level of privacy and noise pollution experienced by the residents, which can impact the desirability of the property, and this figure shows this. 
+![Image 5](images/FrontAnalysis.png)
+
+#### Relation between Street Width and price:
+The street width of a villa can also impact its price. Generally, villas located on wider streets are more expensive than those on narrower streets. This is because wider streets provide more space and a greater sense of openness, which can be more desirable to potential buyers.
+
+![Image 6](images/streetWidth.png)
