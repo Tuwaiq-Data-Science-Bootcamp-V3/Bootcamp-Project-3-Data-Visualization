@@ -123,27 +123,42 @@ Riyadh offers a diverse distribution of villa neighborhoods across the city. Eac
 
 
 
-## Exploring Alnakheel Neighbourhood
-In the beginning, to analyze Al Nakheel Neighbourhood we plot the matrix heatmap to identify the most affected features on the price.
+
+## Exploring AlNakheel Neighbourhood
+Starting with exploring the highest number of villas in AlNakheel neighborhood, we start our exploration by showing the correlation heatmap between features themselves, then focusing in the correlation between Prices and each features, and figure them in some different plots to show the relations independently.
+
+### Heatmap correlations for AlNakheel neighborhood: 
+As shown below, the following features correlate most with the price: Elevator, Pool, Basement, Number of rooms, Front, and property age .for further analysis, we took each feature and plotted its relationship with the price.
+ 
+
 
 |                      |                        |
 | ----------------------------- | ----------------------------- |
 | ![Image 1](images/N1.PNG) | ![Image 2](images/N2.PNG) |
 
-As shown above, the following features correlate most with the price: Elevator, Pool, Basement, Number of rooms, Front, and property age .for further analysis, we took each feature and plotted its relationship with the price.
+### Different features affected on Price: 
 
+#### Relation between basement presence and price:
+The plot below shows that the correlation between the basement and the price is positive, which means that having a basement in the villa contributes to an increase in the price.
 <img src ="images/N3.PNG">
 
-The plot above shows that the correlation between the basement and the price is positive, which means that having a basement in the villa contributes to an increase in the price.
-
 The same previous finding applies to the remaining features as in the following plots:
+
+#### Relation between Number of rooms and price:
+The number of rooms in a villa is a key factor that can impact its price. Generally, villas with more rooms are more expensive than those with fewer rooms. This is because larger villas with more rooms can accommodate larger families or groups of people, and they may offer more space for entertaining or hosting guests.
 <img src="images/N4.PNG"><br>
+#### Relation between Front type and price:
+The front type of a villa can also impact its price, The front type can also affect the level of privacy and noise pollution experienced by the residents, which can impact the desirability of the property, and this figure shows this.
 <img src="images/N5.PNG"><br>
+#### Relation between Pool presence and price:
+The presence of a pool is another factor that can impact the price of a villa. Generally, villas with pools are more expensive than those without. This is because a pool can provide a luxurious and relaxing atmosphere, and it can be a desirable feature for potential buyers who are looking for a vacation home or a place to entertain guests.
 <img src="images/N6.PNG"><br>
+#### Relation between Elevator presence and price:
+The presence of an elevator is another factor that can impact the price of a villa. Generally, villas with elevators are more expensive than those without. This is because an elevator can provide convenience and accessibility, especially for those with mobility issues or for families with young children.
 <img src="images/N7.PNG"><br>
 
-for the property age, the correlation in the heatmap plot showed the correlation is negative but the below blot shows the property age between 4-8 years affects the price in a positive way:
-
+#### Relation between Property Age presence and price:
+For the property age, the correlation in the heatmap plot showed the correlation is negative but the below blot shows the property age between 4-8 years affects the price in a positive way:
 <img src="images/N9.PNG">
 
 ## Exploring Al Maseef Neighbourhood 
