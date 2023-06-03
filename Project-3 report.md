@@ -84,7 +84,7 @@ To get an idea on how most apartments in the west region are placed, we need to 
 
 ![newplot (9)](https://github.com/LamaAlshabani/Bootcamp-Project-3-Data-Visualization/assets/85634276/f11d97c6-0472-4ac6-952c-fee31f282b68)
 
-We discover that the most used fronts are north, south, and east fronts
+We discover that the most used fronts are north, south, and east fronts.
 
 ### What is the correlation between the property's age and it's square price?
 
