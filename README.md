@@ -1,6 +1,6 @@
 ## Team members:
 - Najla Alsowayed
-- Deema Alghudairi
+- Deema Alkhudairi
 - Majed Alshnifi
 
 # Introduction to the Real Estate Database
