@@ -76,7 +76,7 @@ To know the most used street widths in Riyadh, we plotted a violin chart to see 
 
 The most used street width by a small margin is fifteen, then twenty.
 
-###After inspecting every region in Riyadh, we decided it is best to choose the west region for further inspection due to the number of entries this region has and it's affordability.
+### After inspecting every region in Riyadh, we decided it is best to choose the west region for further inspection due to the number of entries this region has and it's affordability.
 
 ### What are the most common fronts in the chosen region?
 
