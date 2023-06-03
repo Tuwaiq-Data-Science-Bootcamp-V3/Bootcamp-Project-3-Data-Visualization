@@ -72,3 +72,55 @@ By following these EDA steps, we were able to gain a comprehensive understanding
 # Data Visualization
 
 In this section, we present meaningful insights obtained through data visualization techniques. We have used various charts to analyze the real estate dataset and provide valuable insights.
+
+## Distribution of the locations in Riyadh
+
+Riyadh, the capital city of Saudi Arabia, exhibits a diverse distribution across its various regions: north, south, east, and center. Each region has its unique characteristics and offers distinct opportunities for villa seekers. Let's explore the distribution and compare important factors such as villa counts, prices, and additional amenities.
+
+
+
+
+|                      |                        |
+| ----------------------------- | ----------------------------- |
+| ![Image 1](images/pie_1.png) | ![Image 2](images/barCountLocation.png) |
+
+
+
+## villas distribution regarding the front of the Villa across the locations
+
+The distribution of villas in Riyadh varies in terms of price across different locations, offering prospective buyers or renters a range of options to consider based on their budget and preferences.
+
+
+<center>
+    <img src="images/histFronts.png" alt="Sales Distribution by Land Area" width="1000px">
+</center>
+
+
+## villas neighbourhoods distribution in each location 
+
+Riyadh offers a diverse distribution of villa neighborhoods across the city. Each location has its own unique characteristics, villa counts, and average prices. Some neighborhoods boast a higher villa count, indicating a denser residential presence, while others have a more moderate count. The average prices of villas also vary, with some neighborhoods commanding higher prices due to their upscale amenities and popularity, while others offer more affordable options. These variations provide individuals with a range of choices to suit their preferences and budgetary requirements, ensuring that there is something for everyone in Riyadh's villa market.
+
+
+### east side 
+|                      |                        |
+| ----------------------------- | ----------------------------- |
+| ![Image 1](images/east_count.png) | ![Image 2](images/east_avg.png) |
+
+### west side
+|                      |                        |
+| ----------------------------- | ----------------------------- |
+| ![Image 1](images/west_count.png) | ![Image 2](images/west_avg.png) |
+
+### south side 
+|                      |                        |
+| ----------------------------- | ----------------------------- |
+| ![Image 1](images/south_count.png) | ![Image 2](images/south_avg.png) |
+
+### north side
+|                      |                        |
+| ----------------------------- | ----------------------------- |
+| ![Image 1](images/north_count.png) | ![Image 2](images/north_avg.png) |
+
+
+
+## 
