@@ -40,4 +40,4 @@ This dataset contains Riyadh Villas Aqar data. There are 7.24 MB,(46826) rows an
 
 
 ## Conclusion
-In the analyze the Riyadh Vaills which facilitate the operation of real estate assets. 
+To sum up, the project's goal was to improve data accessibility and comprehension in the area of Riyadh Villas. Important information about the distribution of rooms, neighborhood costs, the effect of property age, the availability of elevators, outdoor amenities, and room/lounge distribution was discovered through data visualization and analysis. The information in these findings is helpful for decision-makers and those who are curious in the Riyadh real estate market.
