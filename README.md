@@ -1,4 +1,4 @@
-# Bootcamp-Project-3-Data-Visualization
+# Riyadh Villas
 ## Team members:
 - Amjad Alsuwaiket
 - Omar
@@ -16,8 +16,7 @@ The objective of our project is making data more accessible and understandable, 
 
 ## Dataset Overview
 
-
-
+This dataset contains Riyadh Villas Aqar data. There are 7.24 MB,(46826) rows and 26 columns, including Front, Rooms, Bathrooms, PropertyAge, Price, Location and more.
 
 
 
