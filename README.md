@@ -23,10 +23,22 @@ The objective of our project is making data more accessible and understandable, 
 
 
 
-# Data Visualization
 
 
-# Riyadh villas Real Estate Insights 
+
+ 
+
+# Final Insights
+- Scatterplot between top of number rooms and neighbourhoods : In this chart shows the top 20 villas content more number of rooms by neighbourhoods
+- the top 5 neighborhoods in Riyadh based on price
+- After seeing the top 5 neighborhoods in Riyadh, let's see what factors have led to their price increase.
+- scatterplot shows relationship between the property age affect and the price
+- pie chart between number of elevator and location : more bars to shows number of elevators in 5 location at Riyadh
+- count outdoor room and pool at Riyadh villas : This chart shows entertaining place in each home at Riyadh
+- Price by Number of Rooms chart : the chart show how  the price vary based on the number of rooms
+- Number of above price average price in Each Neighbourhood .
+- Number of Rooms and Lounges by Neighbourhood
 
 
 ## Conclusion
+In the analyze the Riyadh Vaills which facilitate the operation of real estate assets. 
