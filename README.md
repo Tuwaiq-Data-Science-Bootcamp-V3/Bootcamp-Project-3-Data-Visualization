@@ -33,7 +33,7 @@ This dataset contains Riyadh Villas Aqar data. There are 7.24 MB,(46826) rows an
 - After seeing the top 5 neighborhoods in Riyadh, let's see what factors have led to their price increase.
 - scatterplot shows relationship between the property age affect and the price
 - pie chart between number of elevator and location : more bars to shows number of elevators in 5 location at Riyadh
-- count outdoor room and pool at Riyadh villas : This chart shows entertaining place in each home at Riyadh
+- Number of  outdoor room and pool at Riyadh villas : This chart shows entertaining place in each home at Riyadh
 - Price by Number of Rooms chart : the chart show how  the price vary based on the number of rooms
 - Number of above price average price in Each Neighbourhood .
 - Number of Rooms and Lounges by Neighbourhood
