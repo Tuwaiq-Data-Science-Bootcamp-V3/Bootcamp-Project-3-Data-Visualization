@@ -1,8 +1,8 @@
 # Riyadh Villas
 ## Team members:
 - Amjad Alsuwaiket
-- Omar
-- Salaman
+- Omar Alnasser 
+- Salaman Almalki
 
 # Introduction
 In the dataset, which includes neighborhoods of Riyadh various classifications. Our goal in this project is to explore the most important analysis in different categories , It is beneficial to everyone interested in this field to view and understand data
